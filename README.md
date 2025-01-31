@@ -57,17 +57,22 @@ This project is a **React.js-based UI/UX implementation**. It provides a seamles
    git clone https://github.com/ashishgupta-debug/BeyondChats
    cd beyondchats-chatbot-integration
 2. **Install Dependencies:**
+    ```bash
      npm install
 3. **Run the Development Server:**
+   ```bash
      npm start
 4. **Open the Application:**
+    ```bash
     Open your browser and navigate to http://localhost:3000.
 
 ## Deployed Link
 You can access the live version of this project here:
-👉 https://beyond-chats-two.vercel.app/chatbot-integration
+```bash
+👉 https://beyond-chats-two.vercel.app
 
 ## Project Structure
+```bash
 beyondchats-chatbot-integration/
 ├── public/
 │   └── index.html
