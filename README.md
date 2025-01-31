@@ -1,4 +1,4 @@
-# ChatsChatbot Integration Project
+# Chatbot Integration Project
 
 This project is a **React.js-based UI/UX implementation**. It provides a seamless workflow for users to register, set up their organization, integrate a chatbot, and test it. The project is designed to be **mobile-responsive** and includes features like feedback submission, chatbot testing, and integration instructions.
 
