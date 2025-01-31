@@ -68,7 +68,6 @@ This project is a **React.js-based UI/UX implementation**. It provides a seamles
 
 ## Deployed Link
 You can access the live version of this project here:
-```bash
 👉 https://beyond-chats-two.vercel.app
 
 ## Project Structure
